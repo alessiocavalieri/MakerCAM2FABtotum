@@ -27,7 +27,7 @@ filename_postprocessed.gcode
 
 being created. This file is now FABtotum compatible.
 
-#Video tutorial: run bash on Windows
+# Video tutorial: run bash on Windows
 
 Via Git Desktop bash, you are able to run makercam2fabtotum script
 
